@@ -1,0 +1,88 @@
+body{
+	background-color: #547AA5;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	width: 400px;
+
+}
+titulo{ 
+ font-family: 'Dingle Berries', sans-serif;                                                                         
+    font-size: 50px;
+	align-content: center;
+ 	color: black;    
+}
+
+h2{
+ font-family: 'Gabuek Script', sans-serif;
+    font-size: 50px;                                           
+}
+h1{
+  font-family: 'Philom', sans-serif;                                        
+ font-size: 45px;                               
+}
+h1{
+  font-family: 'Mystery Quest', sans-serif;                                         
+  font-size: 45px;   
+  color: black;                          
+}
+
+input:focus{
+	outline: 4px dashed #449993;
+}
+
+table{
+	margin-left: 300px;
+	background-color: grey;
+	color: white;
+	text-align: center;
+	width: 700px;
+}
+th{
+	color: black;
+}
+hamburguesa{
+	color: pink;
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+}
+rosa{
+	color:blue;
+}
+morado{
+	color: red;
+}
+
+ul{
+  font-family: 'Guttenberg MF', sans-serif;    
+  font-size: 24px;                                     
+}
+img{
+	width: 100px;
+	height: 100px;
+	border-radius: 10%;
+	box-shadow: black;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 20px;
+}
+th, td{
+	text-align: left;
+	padding: 8px;
+}
+th{
+	background-color: #89A2BF;
+	color: white;
+}
+tr:nth-child(even){
+	background-color: blue;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
